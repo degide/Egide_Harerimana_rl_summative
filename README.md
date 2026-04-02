@@ -108,6 +108,6 @@ Once training is complete, run the main script to automatically load the best-pe
 python main.py --episodes 5
 ```
 
-## Video DEMO
+## Lisence
 
-Link: [Youtube Video DEMO](http)
+[MIT](LICENSE)
